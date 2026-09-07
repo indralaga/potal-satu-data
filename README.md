@@ -1,2 +1,2 @@
-# satu-data-taput
-Portal Satu Data Kabupaten Tapanuli Utara - Laravel, Vue.js, MySQL
+# satu-data-
+Portal Satu Data Kabupaten  - Laravel, Vue.js, MySQL
