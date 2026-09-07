@@ -1,6 +1,6 @@
-# Satu Data TAPUT
+# Satu Data 
 
-Portal data terpadu untuk manajemen dan visualisasi data sektoral Kabupaten Tapanuli Utara.
+Portal data terpadu untuk manajemen dan visualisasi data sektoral 
 
 ## 🎯 Fitur Utama
 
@@ -33,8 +33,8 @@ Portal data terpadu untuk manajemen dan visualisasi data sektoral Kabupaten Tapa
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/indralaga/satu-data-taput.git
-cd satu-data-taput
+git clone https://github.com/indralaga/satu-data.git
+cd satu-data
 ```
 
 ### 2. Install Dependencies
@@ -55,7 +55,7 @@ npm install
 ```bash
 # Buat database MySQL terlebih dahulu
 mysql -u root -p
-CREATE DATABASE satu_data_taput;
+CREATE DATABASE satu_data_;
 exit;
 
 # Jalankan migrations dan seeder
