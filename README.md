@@ -81,11 +81,11 @@ Akses aplikasi di: **http://localhost:8000**
 Setelah menjalankan seeder, berikut user default yang tersedia:
 
 ### Admin Portal
-- Email: `admin@taput.gov.id`
+- Email: `admin@kab.gov.id`
 - Password: `password123`
 
 ### Admin OPD (Contoh: Dinas Kesehatan)
-- Email: `admin.dinas.kesehatan@taput.gov.id`
+- Email: `admin.dinas.kesehatan@kab.gov.id`
 - Password: `password123`
 
 ### Viewer
@@ -95,7 +95,7 @@ Setelah menjalankan seeder, berikut user default yang tersedia:
 ## 📁 Struktur Project
 
 ```
-satu-data-taput/
+satu-data/
 ├── app/
 │   ├── Http/
 │   │   ├── Controllers/Api/
